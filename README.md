@@ -1,4 +1,4 @@
-A simple DES Implementation 
+# A simple DES Implementation 
 - The script can encrypt and decrypt a text or an image using the DES standard
 To run you need two libraries numpy and Pillow
 - _test_des()_ will run a ready made test
